@@ -1,0 +1,9 @@
+com\acceptancetests\petclinic\util\PropertiesReader.class
+com\acceptancetests\petclinic\pages\HomePage.class
+com\acceptancetests\petclinic\steps\CommonStepDef.class
+com\acceptancetests\petclinic\util\Context.class
+com\acceptancetests\petclinic\config\ProjectModule.class
+com\acceptancetests\petclinic\config\WebDriverProvider.class
+com\acceptancetests\petclinic\config\GuiceInjectorSource.class
+com\acceptancetests\petclinic\runners\WipRunnerTest.class
+com\acceptancetests\petclinic\hooks\Hooks.class
